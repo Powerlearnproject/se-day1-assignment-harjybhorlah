@@ -22,8 +22,8 @@ Deployment:Releasing the software to users
 Maintenance: providing ongoing supports, updates and ehancements to the software after deployments  
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
-
-
+The Waterfall methodology is a linear and sequential approach to project management and software development. It follows a set sequence of phases, where each phase must be completed before the next one begins. This approach emphasizes thorough planning and documentation. an exmple of scenarios can be Developing a system for managing internal compliance in a highly regulated industry such as a  financial institution where requirements are clear and unlikely to change during the development process.
+while Agile methodology is an iterative and incremental approach to project management and software development. It emphasizes flexibility, collaboration, and customer feedback, allowing for continuous improvement and adaptation throughout the project lifecycle. an exmple of scenarios can be  Developing a new consumer app where user feedback is crucial for refining features and usability.
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
 
